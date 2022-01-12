@@ -2,11 +2,11 @@
 
 ### Commands used:
 
-To run main.go file:
+#### To run main.go file: 
 ```go run main.go```
 
-To build .exe:
+#### To build .exe:
 ```go build main.go```
 
-To run .exe:
+#### To run .exe:
 ```./main```
